@@ -1,0 +1,43 @@
+_repo: Monitress-Merle_7820
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: The warm, mellow September sunshine was streaming over the irregular
+  roofs and twisted chimneys of the little town of Chagmouth, and was glinting on
+  the water in the harbour, and sending gleaming, straggling, silver lines over the
+  deep reflections of the shipping moored by the side of the jetty. The rising tide,
+  lapping slowly and gently in from the ocean, was floating the boats beached on the
+  shingle, and was gradually driving back the crowd of barefooted children who had
+  ventured out in search of mussels, and was sending them, shrieking with mirth, scampering
+  up the seaweed-covered steps that led to the fish market. On the crag-top above
+  the town the corn had been cut, and harvesters were busy laying the sheaves together
+  in stooks. The yellow fields shone in the afternoon light as if the hill were crowned
+  with gold. Walking along the narrow cobbled path that led past the harbour and up
+  on to the cliff, Mavis and Merle looked at the scene around with that sense of rejoicing
+  proprietorship with which we are wont to revisit the pet place of our adoption.
+  It was two whole months since they had been in Chagmouth, and as they both considered
+  the little town to be the absolute hub of the universe it was really a great event
+  to find themselves once more in its familiar streets. They had spent the summer
+  holidays with their father and mother in the north, and had come back to Durracombe
+  just in time for the reopening of school.
+gutenberg_bookshelf:
+- School Stories
+- Children's Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+title: Monitress Merle
+url: http://www.gutenberg.org/ebooks/7820
