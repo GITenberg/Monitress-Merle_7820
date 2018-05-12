@@ -1,4 +1,8 @@
 _repo: Monitress-Merle_7820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brazil, Angela
@@ -25,6 +29,8 @@ description: The warm, mellow September sunshine was streaming over the irregula
   to find themselves once more in its familiar streets. They had spent the summer
   holidays with their father and mother in the north, and had come back to Durracombe
   just in time for the reopening of school.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7820#Monitress-Merle
 gutenberg_bookshelf:
 - School Stories
 - Children's Fiction
